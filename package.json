@@ -1,0 +1,19 @@
+{
+  "name": "e14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "asciitable": "0.0.7",
+    "readline-sync": "^1.4.10"
+  }
+}
